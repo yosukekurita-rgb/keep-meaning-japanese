@@ -1,6 +1,6 @@
 interface:
   display_name: "意味を保つ日本語の執筆・推敲"
   short_description: "研究に基づく生成方針で具体情報と声を保つ自然な日本語を書く"
-  default_prompt: "$meaning-preserving-japanese-writing を使って、研究に基づく生成方針で、具体情報と書き手の声を保つ自然な日本語を直接書いてください。"
+  default_prompt: "$meaning-first-japanese を使って、研究に基づく生成方針で、具体情報と書き手の声を保つ自然な日本語を直接書いてください。"
 policy:
   allow_implicit_invocation: true

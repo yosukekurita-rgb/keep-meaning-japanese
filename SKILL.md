@@ -1,5 +1,5 @@
 ---
-name: meaning-preserving-japanese-writing
+name: meaning-first-japanese
 description: "具体情報と書き手の声を保ち、自然な日本語を執筆・推敲する。AI判定・検出回避や、研究・スキル開発そのものには使わない。"
 metadata:
   version: "0.9"
